@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Our Legal Team",
+    "description": "Meet our diverse team of expert lawyers and consultants dedicated to your success"
+  },
+  "overview": {
+    "title": "Expert Legal Professionals",
+    "description": "Our team of 50+ legal experts brings diverse expertise and experience to serve your needs"
+  },
+  "member": {},
+  "structure": {
+    "title": "Our Team Structure",
+    "description": "How our legal experts are organized to serve you better",
+    "leadership": "Leadership Team",
+    "leadershipDesc": "Our managing partners and senior attorneys who guide the firm's strategic direction.",
+    "practiceLeaders": "Practice Leaders",
+    "practiceLeadersDesc": "Specialists who head each practice area, bringing deep expertise to their fields.",
+    "associates": "Associate Attorneys",
+    "associatesDesc": "Talented lawyers who work closely with practice leaders to deliver exceptional service.",
+    "support": "Support Staff",
+    "supportDesc": "Administrative professionals who ensure smooth operations and client satisfaction."
+  },
+
+  "expertise": {
+    "title": "Our Areas of Expertise",
+    "description": "Specialized knowledge across key legal domains",
+    "corporateLaw": "Corporate Law",
+    "litigation": "Litigation",
+    "realEstate": "Real Estate",
+    "intellectualProperty": "Intellectual Property",
+    "familyLaw": "Family Law",
+    "taxLaw": "Tax Law",
+    "constitutionalLaw": "Constitutional Law",
+    "criminalLaw": "Criminal Law",
+    "administrativeLaw": "Administrative Law",
+    "laborLaw": "Labor Law",
+    "contractLaw": "Contract Law",
+    "ngoCompliance": "NGO Compliance"
+  },
+  "cta": {
+    "title": "Work With Our Expert Team",
+    "description": "Contact us today to schedule a consultation with our experienced legal professionals",
+    "buttonContact": "Contact Us",
+    "buttonServices": "Our Services"
+  }
+}

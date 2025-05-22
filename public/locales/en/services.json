@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "description": "Comprehensive legal solutions tailored to meet your specific needs"
+  },
+  "overview": {
+    "title": "Comprehensive Legal Services",
+    "description": "At Middle East Law Firm, we offer a wide range of legal services to meet the diverse needs of our clients"
+  },
+  "items": [
+    {
+      "id": "consultancy",
+      "title": "Consultancy & Decision Support",
+      "description": "Providing expert legal advice to guide strategic decisions and ensure compliance with applicable laws.",
+      "bullets": [
+        "Strategic legal guidance",
+        "Regulatory compliance advice",
+        "Risk assessment and mitigation"
+      ]
+    },
+    {
+      "id": "corporate",
+      "title": "Corporate Services",
+      "description": "Comprehensive legal support for businesses, including compliance, documentation, and regulatory guidance.",
+      "bullets": [
+        "Social Security Compliance",
+        "Notarization Services",
+        "Taxation Guidance",
+        "Documentation Management",
+        "Visa & Work Authorization Support"
+      ]
+    },
+    {
+      "id": "litigation",
+      "title": "Litigation & Lawsuits",
+      "description": "Expert representation in civil, commercial, criminal, and constitutional cases with a 96% success rate.",
+      "bullets": [
+        "Constitutional Lawsuits",
+        "Civil & Commercial Disputes",
+        "Commercial Arbitration",
+        "Criminal Lawsuits",
+        "Family Affairs Disputes"
+      ]
+    },
+    {
+      "id": "realestate",
+      "title": "Real Estate Business Affairs",
+      "description": "End-to-end legal support for property transactions, regulatory compliance, and dispute resolution in the real estate sector.",
+      "bullets": [
+        "Property transaction support",
+        "Real estate dispute resolution",
+        "Regulatory compliance"
+      ]
+    },
+    {
+      "id": "ngo",
+      "title": "NGO Support",
+      "description": "Specialized legal assistance for non-governmental organizations, ensuring compliance and operational efficiency.",
+      "bullets": [
+        "NGO registration and compliance",
+        "Operational legal framework",
+        "Program implementation support"
+      ]
+    },
+    {
+      "id": "contracts",
+      "title": "Contracts & IP Protection",
+      "description": "Drafting, reviewing, and negotiating contracts across all sectors, plus intellectual property protection.",
+      "bullets": [
+        "Contract drafting and review",
+        "Negotiation support",
+        "Intellectual property registration",
+        "Patent and trademark protection"
+      ]
+    }
+  ],
+  "success": {
+    "title": "Client Success Stories",
+    "description": "Real examples of how we've helped our clients overcome legal challenges",
+    "items": [
+      {
+        "title": "Startup Legal Support",
+        "description": "We played a pivotal role in assisting a startup to establish a robust legal framework. By ensuring full regulatory compliance, we allowed them to focus on innovation and growth without legal distractions.",
+        "initials": "ST",
+        "client": "Tech Startup",
+        "location": "Baghdad, Iraq"
+      },
+      {
+        "title": "Landmark Litigation Victory",
+        "description": "In a high-profile case against a prominent corporation, we secured a favorable verdict for our client that led to an industry-wide policy change, underscoring our ability to tackle complex legal challenges.",
+        "initials": "CC",
+        "client": "Corporate Client",
+        "location": "Basra, Iraq"
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Service Process",
+    "description": "How we work with you to address your legal needs",
+    "steps": [
+      {
+        "title": "Initial Consultation",
+        "description": "We begin with a thorough consultation to understand your specific legal needs and objectives."
+      },
+      {
+        "title": "Strategy Development",
+        "description": "Our team develops a customized legal strategy tailored to your specific situation and goals."
+      },
+      {
+        "title": "Implementation",
+        "description": "We execute the agreed-upon strategy with precision, keeping you informed at every step."
+      },
+      {
+        "title": "Ongoing Support",
+        "description": "We provide continuous support and adjustments as needed to ensure optimal outcomes."
+      }
+    ]
+  },
+  "ctaFinal": {
+    "title": "Need Legal Assistance?",
+    "description": "Contact our team today to discuss how we can help with your specific legal needs",
+    "contactButton": "Contact Us",
+    "teamButton": "Meet Our Team"
+  }
+}

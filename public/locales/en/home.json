@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "Expert Legal Solutions for Complex Challenges",
+    "description": "Since 2012, Middle East Law Firm has been providing comprehensive legal services with a 96% success rate in litigation.",
+    "cta": {
+      "contact": "Get Legal Advice",
+      "learn": "Learn More"
+    }
+  },
+  "services": {
+    "title": "Our Legal Services",
+    "description": "Comprehensive legal solutions tailored to meet the evolving needs of businesses and individuals.",
+    "learn_more": "Learn More",
+    "items": [
+      {
+        "title": "Corporate Law",
+        "description": "Comprehensive legal support for businesses, including compliance, documentation, and strategic guidance."
+      },
+      {
+        "title": "Litigation",
+        "description": "Expert representation in civil, commercial, corporate disputes, and criminal lawsuits."
+      },
+      {
+        "title": "Real Estate",
+        "description": "End-to-end legal support for property transactions, regulatory compliance, and dispute resolution."
+      },
+      {
+        "title": "Contracts",
+        "description": "Drafting, reviewing, and negotiating contracts across all sectors with meticulous attention to detail."
+      },
+      {
+        "title": "NGO Support",
+        "description": "Specialized legal assistance for non-governmental organizations ensuring compliance and operational efficiency."
+      },
+      {
+        "title": "Consultancy",
+        "description": "Expert legal advice to guide strategic decisions and ensure compliance with applicable laws."
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      { "value": "250+", "label": "Clients" },
+      { "value": "96%", "label": "Success Rate" },
+      { "value": "50+", "label": "Legal Experts" },
+      { "value": "700+", "label": "Delegations" }
+    ]
+  },
+  "why": {
+    "title": "Why Choose Us",
+    "description": "Our core values guide our decisions and define who we are",
+    "items": [
+      {
+        "title": "Excellence",
+        "description": "Striving for unparalleled quality and precision in every service we provide."
+      },
+      {
+        "title": "Integrity",
+        "description": "Adhering to the highest standards of honesty, fairness, and ethical conduct."
+      },
+      {
+        "title": "Client-Centric",
+        "description": "Putting our clients' needs at the forefront and delivering tailored solutions."
+      },
+      {
+        "title": "Global Perspective",
+        "description": "Combining local expertise with international standards and practices."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "list": [
+      {
+        "initials": "AT",
+        "name": "Ahmed T.",
+        "role": "Corporate Client",
+        "feedback": "The team at The Middle East Law Firm demonstrated exceptional professionalism and reliability. They guided me through a complex legal matter with clarity and precision, ensuring a successful resolution."
+      },
+      {
+        "initials": "SK",
+        "name": "Sarah K.",
+        "role": "Individual Client",
+        "feedback": "From the moment I engaged with The Middle East Law Firm, I knew I was in the right hands. Their attention to detail and deep understanding of the law helped secure an outcome that exceeded my expectations."
+      },
+      {
+        "initials": "OB",
+        "name": "Omar B.",
+        "role": "Business Owner",
+        "feedback": "Working with The Middle East Law Firm was a game-changer for my business. Their strategic approach and unwavering commitment to my case helped resolve a significant dispute efficiently and effectively."
+      },
+      {
+        "initials": "LH",
+        "name": "Layla H.",
+        "role": "Family Law Client",
+        "feedback": "Legal matters can be overwhelming, but the team at The Middle East Law Firm made it manageable. They listened to my concerns, addressed every question, and provided me with the guidance I needed."
+      },
+      {
+        "initials": "AR",
+        "name": "Ali R.",
+        "role": "Long-Term Client",
+        "feedback": "Over the years, I have relied on The Middle East Law Firm for various legal services. Their expertise, dedication, and ability to deliver results have made them my go-to legal advisors."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Discuss Your Legal Needs?",
+    "description": "Our team of expert lawyers is ready to help you navigate complex legal challenges with confidence.",
+    "button": "Schedule a Consultation"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "team": "Lawyers Team",
+    "contact": "Contact Us",
+    "getLegalAdvice": "Get Legal Advice",
+    "middleEastLawFirm":"Middle East Law Firm"
+  }
+}

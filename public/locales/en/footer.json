@@ -1,0 +1,25 @@
+{
+  "middleEastLawFirm": "Middle East Law Firm",
+  "about": "Established in 2012 in Baghdad, Iraq, The Middle East Law Firm was founded on a vision of delivering comprehensive, trustworthy, and client-focused legal services.",
+  "quick_links": {
+    "title": "Quick Links",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "team": "Lawyers Team",
+    "contact": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "consultancy": "Consultancy & Decision Support",
+    "corporate": "Corporate Services",
+    "litigation": "Litigation & Lawsuits",
+    "realestate": "Real Estate Affairs",
+    "contracts": "Contracts & IP Protection"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Iraq, Baghdad, 42 St."
+  },
+  "rights": "All rights reserved."
+}
