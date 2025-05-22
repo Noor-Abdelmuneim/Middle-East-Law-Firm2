@@ -13,6 +13,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Middle East Law Firm",
   description: "Professional legal services in Iraq and beyond",
+    icons: {
+    icon: "/logo.png",
+  },
 };
 
 const tajawal = Tajawal({
